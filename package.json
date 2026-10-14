@@ -1,0 +1,13 @@
+{
+  "name": "eventrx-spreedly-signer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Signs Spreedly secured-tokenization sessions for EventRx",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
